@@ -1,4 +1,4 @@
-## For quick navigation [`home`](/) 
+## For quick navigation [`home`][home] 
 
 Topic | Label | Navigation 
 ------|-------|-------
@@ -12,3 +12,5 @@ Python basics| Theory | [`HERE`][1]
 
 
 [1]: theory/1_1.md
+
+[home]: ./README.md
