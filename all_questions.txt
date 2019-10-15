@@ -1,0 +1,8 @@
+All of question will listed here..
+
+1. Ground level questions
+
+    1. Print your name using python.
+    2. Print your name using variable in python.
+    3. Print your name and age using python.
+    4. Print your name and age using variable in python.
