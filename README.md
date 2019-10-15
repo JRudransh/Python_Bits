@@ -16,5 +16,5 @@ go to [`index`][nav] page for batter navigation
 
 
 
-[questions]: questions/1_1.md
+[questions]: all_questions.txt
 [nav]: index.md
