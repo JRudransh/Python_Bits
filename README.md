@@ -8,4 +8,4 @@ Python basic programs for practice. It contains lots of python programme, best f
 
 ## Navigation :
 
-`Question.txt` Contains all of questions for your practice.
+[`core_basic_question`](core_basic_question.md) Contains all of questions for your practice.
