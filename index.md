@@ -1,4 +1,4 @@
-## For quick navigation
+## For quick navigation [`home`](/) 
 
 Topic | Label | Navigation 
 ------|-------|-------
