@@ -10,7 +10,7 @@ Python basic programs for practice. It contains lots of python programme, best f
 
 [`core_basic_question`][questions] Contains all of questions for your practice.
 
-go to [index][index] page for batter navigation[]
+go to [`index`][nav] page for batter navigation
 
 
 
