@@ -8,13 +8,16 @@ Python basic programs for practice. It contains lots of python programme, best f
 
 ## Navigation :
 
-[`core_basic_question`][questions] Contains all of questions for your practice.
+[`core_basic_question`][q1] Contains all of questions for your practice.
 
-go to [`index`][nav] page for batter navigation
+go to [`index`][nav1] page for batter navigation.
+
+Get all questions from [`all_question.txt`][q2] for offline use.
 
 
 
 
 
-[questions]: all_questions.txt
-[nav]: index.md
+[q1]: questions/1_1.md
+[q2]: all_questions.txt
+[nav1]: index.md
